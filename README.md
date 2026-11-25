@@ -1,8 +1,9 @@
 # Break Production, Own It
 
-[![make.fun](https://make.fun/badge/u-ricoxyz-break-production-own-it-be78a994/competition)](https://make.fun/bounty/u-ricoxyz-break-production-own-it-be78a994)
-[![make.fun](https://make.fun/badge/u-ricoxyz-break-production-own-it-be78a994/rank)](https://make.fun/bounty/u-ricoxyz-break-production-own-it-be78a994)
-[![make.fun](https://make.fun/badge/u-ricoxyz-break-production-own-it-be78a994/reward)](https://make.fun/bounty/u-ricoxyz-break-production-own-it-be78a994)
+[![make.fun · u-ricoxyz-break-production-own-it-be78a994](https://make.fun/badge/u-ricoxyz-break-production-own-it-be78a994.svg)](https://make.fun/bounty/u-ricoxyz-break-production-own-it-be78a994?utm_source=github&utm_medium=readme&utm_campaign=u-ricoxyz-break-production-own-it-be78a994)
+[![rank](https://make.fun/badge/u-ricoxyz-break-production-own-it-be78a994/gibalers-rgb/u-ricoxyz-break-production-own-it-be78a994/rank.svg)](https://make.fun/bounty/u-ricoxyz-break-production-own-it-be78a994/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-ricoxyz-break-production-own-it-be78a994)
+[![reward](https://make.fun/badge/u-ricoxyz-break-production-own-it-be78a994/gibalers-rgb/u-ricoxyz-break-production-own-it-be78a994/reward.svg)](https://make.fun/bounty/u-ricoxyz-break-production-own-it-be78a994?utm_source=github&utm_medium=readme&utm_campaign=u-ricoxyz-break-production-own-it-be78a994)
+
 
 A make.fun entry for the **Break Production, Own It** bounty: one brutally
 honest one-line confession, printed by the AI agent the instant it breaks
